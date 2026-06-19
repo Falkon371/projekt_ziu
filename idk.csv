@@ -1,0 +1,31 @@
+id,data_urodzenia,data_zlozenia,imie_nazwisko_pacjenta,miasto,personel,personel_rejestracji,pesel,plec,podmiot,poradnia,typ_deklaracji,ulica
+1,1985-03-12,2025-01-10,Jan Kowalski,Kraków,Dr Anna Nowak,Agnieszka Zielińska,85031212345,M,Centrum Medyczne Medyk,Poradnia Rodzinna,LR,ul. Lipowa 12
+2,1992-07-15,2025-01-12,Anna Nowak,Tarnów,Dr Marek Wiśniewski,Karolina Wójcik,92071554321,K,Przychodnia Vita,Poradnia Internistyczna,PI,ul. Słoneczna 5
+3,1978-01-01,2025-01-13,Piotr Zieliński,Nowy Sącz,Dr Ewa Mazur,Monika Kaczmarek,78010198765,M,Centrum Zdrowia Plus,Poradnia Ogólna,PO,ul. Ogrodowa 8
+4,1985-03-12,2025-01-15,Katarzyna Wiśniewska,Bochnia,Dr Anna Nowak,Agnieszka Zielińska,85031212345,K,Centrum Medyczne Medyk,Poradnia Rodzinna,PI,ul. Krótka 3
+5,1999-04-11,2025-01-16,Marek Dąbrowski,Gorlice,Dr Tomasz Lis,Paulina Król,99041145678,M,Przychodnia Zdrowie,Poradnia Rodzinna,LR,ul. Polna 22
+6,1987-09-20,2025-01-18,Joanna Król,Limanowa,Dr Ewa Mazur,Ewa Jabłońska,87092011223,K,Centrum Zdrowia Plus,Poradnia Pediatryczna,PO,ul. Leśna 14
+7,1992-07-15,2025-01-19,Tomasz Pawlak,Kraków,Dr Marek Wiśniewski,Karolina Wójcik,92071554321,M,Przychodnia Vita,Poradnia Internistyczna,LR,ul. Szkolna 9
+8,1976-02-02,2025-01-20,Magdalena Zając,Nowy Targ,Dr Anna Nowak,Anna Sikora,76020233445,K,Centrum Medyczne Medyk,Poradnia Ginekologiczna,PI,ul. Spacerowa 7
+9,1981-05-05,2025-01-22,Paweł Kaczmarek,Tarnów,Dr Tomasz Lis,Paulina Król,81050555667,M,Przychodnia Zdrowie,Poradnia Rodzinna,PO,ul. Wiosenna 18
+10,1978-01-01,2025-01-23,Ewa Lewandowska,Kraków,Dr Ewa Mazur,Monika Kaczmarek,78010198765,K,Centrum Zdrowia Plus,Poradnia Ogólna,LR,ul. Brzozowa 30
+11,1995-08-08,2025-01-24,Karol Wrona,Bochnia,Dr Marek Wiśniewski,Marta Sowa,95080877889,M,Przychodnia Vita,Poradnia Kardiologiczna,PI,ul. Jagodowa 4
+12,1987-09-20,2025-01-25,Alicja Sikora,Gorlice,Dr Tomasz Lis,Ewa Jabłońska,87092011223,K,Przychodnia Zdrowie,Poradnia Pediatryczna,LR,ul. Kwiatowa 11
+13,1965-03-03,2025-01-26,Łukasz Mazur,Nowy Sącz,Dr Anna Nowak,Anna Sikora,65030399887,M,Centrum Medyczne Medyk,Poradnia Neurologiczna,PO,ul. Zielona 2
+14,1976-02-02,2025-01-27,Natalia Kamińska,Kraków,Dr Ewa Mazur,Monika Kaczmarek,76020233445,K,Centrum Zdrowia Plus,Poradnia Ginekologiczna,PI,ul. Długa 45
+15,1999-04-11,2025-01-28,Robert Lis,Limanowa,Dr Tomasz Lis,Paulina Król,99041145678,M,Przychodnia Zdrowie,Poradnia Rodzinna,PO,ul. Cicha 6
+16,1988-01-01,2025-02-01,Sylwia Baran,Kraków,Dr Anna Nowak,Agnieszka Zielińska,88010122334,K,Centrum Medyczne Medyk,Poradnia Rodzinna,LR,ul. Akacjowa 13
+17,1991-02-12,2025-02-02,Damian Kurek,Tarnów,Dr Marek Wiśniewski,Karolina Wójcik,91021233445,M,Przychodnia Vita,Poradnia Internistyczna,PI,ul. Wiślana 7
+18,1982-03-23,2025-02-03,Beata Walczak,Bochnia,Dr Tomasz Lis,Paulina Król,82032344556,K,Przychodnia Zdrowie,Poradnia Rodzinna,PO,ul. Łąkowa 9
+19,1973-04-04,2025-02-04,Patryk Dudek,Nowy Sącz,Dr Ewa Mazur,Monika Kaczmarek,73040455667,M,Centrum Zdrowia Plus,Poradnia Ogólna,LR,ul. Wrzosowa 5
+20,1994-05-15,2025-02-05,Emilia Sowa,Gorlice,Dr Anna Nowak,Anna Sikora,94051566778,K,Centrum Medyczne Medyk,Poradnia Pediatryczna,PI,ul. Kasztanowa 16
+21,1985-06-26,2025-02-06,Michał Górski,Limanowa,Dr Marek Wiśniewski,Marta Sowa,85062677889,M,Przychodnia Vita,Poradnia Kardiologiczna,PO,ul. Rolnicza 18
+22,1996-07-07,2025-02-07,Karina Błaszczyk,Kraków,Dr Tomasz Lis,Ewa Jabłońska,96073788990,K,Przychodnia Zdrowie,Poradnia Rodzinna,LR,ul. Parkowa 21
+23,1977-08-08,2025-02-08,Sebastian Kania,Tarnów,Dr Ewa Mazur,Monika Kaczmarek,77084899001,M,Centrum Zdrowia Plus,Poradnia Neurologiczna,PI,ul. Jasna 14
+24,1968-09-09,2025-02-09,Monika Czarnecka,Nowy Targ,Dr Anna Nowak,Agnieszka Zielińska,68090910112,K,Centrum Medyczne Medyk,Poradnia Ginekologiczna,PO,ul. Widok 3
+25,1999-10-10,2025-02-10,Rafał Pietrzak,Bochnia,Dr Tomasz Lis,Paulina Król,99101021223,M,Przychodnia Zdrowie,Poradnia Rodzinna,LR,ul. Górska 27
+26,1990-11-11,2025-02-11,Julia Michalak,Kraków,Dr Marek Wiśniewski,Karolina Wójcik,90011132334,K,Przychodnia Vita,Poradnia Internistyczna,PI,ul. Wesoła 19
+27,1981-02-22,2025-02-12,Adrian Jabłoński,Gorlice,Dr Ewa Mazur,Monika Kaczmarek,81022243445,M,Centrum Zdrowia Plus,Poradnia Ogólna,PO,ul. Stroma 8
+28,1972-03-03,2025-02-13,Agnieszka Kaczor,Limanowa,Dr Anna Nowak,Anna Sikora,72033354556,K,Centrum Medyczne Medyk,Poradnia Pediatryczna,LR,ul. Tęczowa 6
+29,1993-04-04,2025-02-14,Marcin Sikora,Tarnów,Dr Tomasz Lis,Ewa Jabłońska,93044465667,M,Przychodnia Zdrowie,Poradnia Rodzinna,PI,ul. Graniczna 11
+30,1984-05-05,2025-02-15,Weronika Pawlak,Kraków,Dr Marek Wiśniewski,Marta Sowa,84055576778,K,Przychodnia Vita,Poradnia Kardiologiczna,PO,ul. Nadbrzeżna 2

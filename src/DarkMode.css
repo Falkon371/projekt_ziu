@@ -1,0 +1,20 @@
+:root {
+  --font-color: #222;
+  --background-color: #ffffff;
+  --link-color: cornflowerblue;
+}
+
+[data-theme="dark"] {
+  --font-color: #ffffff;
+  --background-color: #222;
+  --link-color: lightblue;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--font-color);
+}
+
+a {
+  color: var(--link-color);
+}
